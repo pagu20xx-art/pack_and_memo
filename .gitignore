@@ -97,3 +97,6 @@ coverage/
 # Temp files
 *.tmp
 *.bak
+
+.gemini/
+gha-creds-*.json

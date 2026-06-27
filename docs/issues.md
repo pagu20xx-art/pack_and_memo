@@ -3,6 +3,16 @@
 このドキュメントは、GitHubでIssueを作成する際にそのままコピペして使用できるテンプレートです。
 開発の進捗管理や進捗チェックリストとしてご活用ください。
 
+また、各Issueはローカルでの進捗管理用に個別のMarkdownファイルとして `docs/issues/` ディレクトリに生成されています。
+
+## 📌 個別Issue一覧 (ローカル進捗管理用)
+- 📝 [Issue 1: [Phase 1] Expoプロジェクトの初期化と基本環境構築](./issues/1_phase1.md)
+- 📝 [Issue 2: [Phase 2] Database (SQLite) & 状態管理 (React Context) の構築](./issues/2_phase2.md)
+- 📝 [Issue 3: [Phase 3-1] ホーム画面 (Home Screen) & 新規イベント追加機能](./issues/3_phase3_1.md)
+- 📝 [Issue 4: [Phase 3-2] 準備画面 (Checklist Screen) & 持ち物チェックリスト機能](./issues/4_phase3_2.md)
+- 📝 [Issue 5: [Phase 3-3] 思い出画面 (Memory Screen) & カメラ・フォトピッカー・保存機能](./issues/5_phase3_3.md)
+- 📝 [Issue 6: [Phase 4] エッジ・トゥ・エッジ対応、Material 3風スタイリングの洗練と検証](./issues/6_phase4.md)
+
 ---
 
 ## Issue 1: [Phase 1] Expoプロジェクトの初期化と基本環境構築
