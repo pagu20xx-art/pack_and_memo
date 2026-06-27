@@ -23,7 +23,7 @@
 
 - **状態管理と永続化 (State & Persistence)**: React Native + Expo SQLite + Context API の推奨アーキテクチャについては、`references/expo_context_sqlite_patterns.md` を参照してください。
 - **Android/iOS対応ガイド (OS Compatibility Guide)**: セーフエリアのハンドリングや、カメラ・フォトピッカーの最適な呼び出しについては `references/pixel_10_pro_guide.md` を参照してください。
-- **プロジェクト仕様 (Project Specifics)**: 画面遷移の定義やデータ構造の詳細については、常に `/home/akio_shino/projects/pack_and_memo/SPECIFICATION.md` を参照してください。
+- **プロジェクト仕様 (Project Specifics)**: 画面遷移の定義やデータ構造の詳細については、常に `/home/a_xiaoming/projects/pack_and_memo/SPECIFICATION.md` を参照してください。
 
 ## リソース (Resources)
 
